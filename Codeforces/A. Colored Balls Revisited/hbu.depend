@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662650141 source:d:\hbu\main.cpp
+	<iostream>
+	<math.h>
+	<algorithm>
+	<bits/stdc++.h>
+	<numeric>
+
