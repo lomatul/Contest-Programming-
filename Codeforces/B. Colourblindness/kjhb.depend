@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662383664 source:d:\kjhb\main.cpp
+	<stdio.h>
+	<bits/stdc++.h>
+	<iostream>
+
